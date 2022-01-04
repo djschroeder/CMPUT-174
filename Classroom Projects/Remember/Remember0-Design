@@ -1,0 +1,20 @@
+# Remember the Word Design
+# clear screen
+# display header
+# display instructions
+# prompt the player to press the enter key
+# clear the screen 
+# display 4 words
+#   - words are displayed one at a time
+#   - after each word is displayed, there is a pause before the word disappears and the next word appears
+#   - words are chosen randomly from a list of words
+#   - words start fwith different letters
+# player is prompted with a question
+#   - question is formulated using the first letter of one of the displayed words
+#   - the answer is chosen randomly
+# display feedback
+#   - displays congratulations if the player answer is correct
+#   - otherwise display condolence message if the player answer is incorrect
+# player is prompted to play again
+#   - if the plater chooses to play again the program restarts
+#   - otherwise the program terminates
